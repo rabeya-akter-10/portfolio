@@ -1,0 +1,40 @@
+*{
+margin: 0;
+font-family: Arial, Helvetica, sans-serif;
+}
+.beyadob-meye{
+    text-align: center;
+}
+.beyadob-meye img
+{
+    width: 50%;
+}
+body{
+    background-color: rgba(164, 221, 150, 0.493);
+}
+h1{
+    color: red;
+    text-align: center;
+    padding-top: 50px;
+}
+.happy{
+    color: brown;
+    margin: 50px;
+}
+.photos{
+    color: blueviolet;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.about-beyadob{
+margin: 50px;
+}
+.about-title{
+    margin-bottom: 30px;
+    color: blue;
+    font-size: 25px;
+}
+.about-beyadob p{
+    color: gray;
+    font-size: 20px;
+}
